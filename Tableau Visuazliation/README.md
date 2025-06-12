@@ -7,7 +7,8 @@ Please follow the link below to see the visualizations at Tableau Public.
 - **VSA-NYC: NYC Voting Sites Availability**<br>
 https://public.tableau.com/views/VSA_NYC/NYCVotingSitesAvailability?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
- 
+- **VSA-NYC2**<br>
+https://public.tableau.com/views/VSA_NYC2/NYCVotingSiteAvailability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
